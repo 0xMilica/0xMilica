@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm passionate about ZKs education
+### I'm passionate about ZK education
 
 ###
 <!--
