@@ -2,7 +2,7 @@
 
 ### An engineer turned into
 
-### ZK researcher
+### PhD ZK researcher & content creator ✨
 <!--
 **0xMilica/0xMilica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
